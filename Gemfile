@@ -8,3 +8,4 @@ gem "jekyll-feed"
 gem "jemoji"
 gem "jekyll-include-cache"
 gem 'html-proofer'
+gem "kramdown-parser-gfm"
