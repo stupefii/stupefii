@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "智弱網民"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "年過半百，不學無術，漫步到火葬場中，順道記下沿途風光."
   location         : "願榮光歸香港"
   email            :
   links:
