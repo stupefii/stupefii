@@ -10,4 +10,5 @@ tags:
 
 My new cookbook from Sam Sifton has just arrived:
 
-![new cookbook]({{ site.url }}{{ site.baser;like }}/asserts/images/cookbook.jpg
+![new cookbook]({{ site.url }}{{ site.baseurl }}/assets/images/cookbook.jpg)
+
