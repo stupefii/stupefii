@@ -22,8 +22,8 @@ subtitle                 : 一個中年大叔的無病呻呤
 name                     : "一筆一劃全人手編寫"
 description              : "An amazing website."
 url                      : "https://stupefii.github.io"
-baseurl                  : "/stupefii2"
-repository               : "stupefii/stupefii2"
+baseurl                  : # "/stupefii2"
+repository               : # "stupefii/stupefii2"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
