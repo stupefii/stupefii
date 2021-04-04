@@ -10,7 +10,7 @@ tags:
   
 ---
 
-參觀位於 Dachau 的[猶太集中營紀念館](https://www.kz-gedenkstaette-dachau.de/en/),感概萬千。
+參觀位於 Dachau 的[猶太集中營紀念館](https://www.kz-gedenkstaette-dachau.de/en/)，感概萬千。
 
 想起美剧《白宫群英》 The West Wing 在 911 后新一季度的特輯，名為 [Isaac and Ishmael](https://youtu.be/21eaubatLGc) 中講述了這樣的故事：
 
