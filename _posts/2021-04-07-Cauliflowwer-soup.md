@@ -28,7 +28,7 @@ gallery:
 
 ---
 
-### 材料 <p> 
+### 材料
 
 * 椰菜花一個 摘去綠葉洗淨備用
 * 蒜頭半個 壓碎備用
@@ -40,6 +40,7 @@ gallery:
 * 香腸
 * 雞湯／魚湯約一公升
 * 芝士碎
+
 ### 步驟
 
 1. 將部份蒜蓉碎放入鑄鐵鍋  
@@ -53,7 +54,7 @@ gallery:
 7. 加入適量雞湯或魚湯，用煮食棒將西蘭花完全打碎攪勻，最後加入芝士碎，再略略攪勻
 8. 收工。
 
-{% include gallery clayout="half" Caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery layout="half" Caption="This is a sample gallery with **Markdown support**." %}
 
 
 原食譜來自 [Sam Sifton](https://twitter.com/SamSifton) [No-Recipe Recipe]()
