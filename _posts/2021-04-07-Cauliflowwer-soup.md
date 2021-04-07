@@ -57,4 +57,4 @@ gallery:
 {% include gallery layout="half" Caption="This is a sample gallery with **Markdown support**." %}
 
 
-原食譜來自 [Sam Sifton](https://twitter.com/SamSifton) [No-Recipe Recipe]()
+原食譜來自 [Sam Sifton](https://twitter.com/SamSifton) No-Recipe Recipe
