@@ -53,7 +53,7 @@ tags:
 7. 加入適量雞湯或魚湯，用煮食棒將西蘭花完全打碎攪勻，最後加入芝士碎，再略略攪勻
 8. 收工。
 
-{% include gallery layout: half caption="簡單輕食 - 焗棷菜花湯配香腸法包" %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
 原食譜來自 [Sam Sifton](https://twitter.com/SamSifton) [No-Recipe Recipe]()
