@@ -1,8 +1,9 @@
 {
     "markdown.preview.breaks": true,
     "markdown.preview.fontSize": 16,
-    "workbench.colorTheme": "Markdown Editor Focus",
-    "workbench.preferredDarkColorTheme": "Markdown Editor Dark",
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.preferredDarkColorTheme": "Solarized Light",
     "workbench.preferredHighContrastColorTheme": "Markdown Editor Focus",
-    "workbench.preferredLightColorTheme": "Markdown Editor"
+    "workbench.preferredLightColorTheme": "Solarized Light",
+    "workbench.fontAliasing": "antialiased"
 }
