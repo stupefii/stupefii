@@ -33,6 +33,9 @@ gallery:
 
 **1/4 cup** chopped sage leaves
 
+
+## Procedures
+
 Put the sausage in a large cast-iron or other heavy skillet. (If it’s in links, squeeze it into the pan, and discard the casing.) Turn the heat to medium and cook, stirring and breaking the sausage into tiny bits, until browned and cooked through, about 8 minutes. If the sausage sticks to the pan, add 1/2 teaspoon neutral oil. Remove from the heat and cool to room temperature. You should have a scant 2 cups cooked meatball bits.
 
 Heat oven to 220 degrees. Line a large baking sheet with parchment paper.
@@ -51,3 +54,4 @@ Cool on the pan on a rack for 5 minutes. Serve warm or room temperature, wrapped
 
 {% include gallery layout="half" caption="Meatball Sage Biscuits" %}
 
+Original Recipe by Genevieve Ko from NYT Cooking
